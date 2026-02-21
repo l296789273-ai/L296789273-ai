@@ -1,5 +1,6 @@
 👋 Hi,I’m L296789273-AI
-![头像](image/头像.jpg)
+
+![头像](image/jk.png)
 <!--
 **l296789273-ai/L296789273-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
