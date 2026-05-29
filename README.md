@@ -1,4 +1,4 @@
-👋 Hi,I’m H E L L O , L O V E![![Netlify Status]
+👋 Hi,I’m H E L L O , L O V E!
 
 ![头像](image/jk.png)
 <!--
