@@ -1,4 +1,4 @@
-👋 Hi,I’m H E L L O , L O V E![![Netlify Status](https://api.netlify.com/api/v1/badges/510e8ca7-c48e-4918-a71f-83c3f4aeab95/deploy-status)](https://app.netlify.com/projects/hellove/deploys)
+👋 Hi,I’m H E L L O , L O V E![![Netlify Status]
 
 ![头像](image/jk.png)
 <!--
